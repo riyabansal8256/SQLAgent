@@ -1,0 +1,12 @@
+streamlit
+openai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+pdf2image
+pandas
+openpyxl
+groq
+plotly
+kaleido
